@@ -1,0 +1,5 @@
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+LLM_MODEL = "llama-3.1-8b-instant"
+CHUNK_SIZE = 300
+CHUNK_OVERLAP = 50
+N_RESULTS = 3
