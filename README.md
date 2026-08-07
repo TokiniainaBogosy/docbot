@@ -24,4 +24,4 @@ en quelques secondes.
 - Python · Streamlit · FAISS · Sentence Transformers · Groq API
 
 ## Démo
-[Voir l'app en ligne](https://lien-a-ajouter.streamlit.app)
+[Voir l'app en ligne](https://docbot-toky.streamlit.app/)
