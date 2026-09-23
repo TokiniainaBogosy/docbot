@@ -1,5 +1,5 @@
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-LLM_MODEL = "gpt-oss-120b"
+LLM_MODEL = "openai/gpt-oss-120b"
 CHUNK_SIZE = 300
 CHUNK_OVERLAP = 50
 N_RESULTS = 3
