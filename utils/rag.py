@@ -27,4 +27,4 @@ def generer_reponse(question, index, chunks):
         ]
     )
     print(chunks_pertinents)
-    return reponse.choices[0].message.content.strip() , chunks_pertinents
+    return reponse.choices[0].message.content.strip() , contexte.split("\n")
