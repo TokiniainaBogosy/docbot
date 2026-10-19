@@ -54,7 +54,7 @@ if pdf_upload is not None:
 
         with st.expander("Sources utilisées"):
             for source in sources:
-                st.markdown(f"- {source}...")
+                st.markdown(f"- {source:200}...")
         st.session_state.messages.append({"role": "assistant", "content": reponse})
 
 else:
